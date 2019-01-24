@@ -38,7 +38,17 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - a very basic starter Electron app
 - [electron/simple-samples](https://github.com/electron/simple-samples) - small applications with ideas for taking them further
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
-- [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
+- [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - 
+small demo apps for the various Electron APIs
+
+
+
+
+============================================================================
+
+about：
+-[electron学习资料] (https://juejin.im/post/5c46ab47e51d45522b4f55b1?utm_source=gold_browser_extension)
+
 
 ## License
 
